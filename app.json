@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "plate-up",
+    "slug": "plate-up",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "plate-up"
+}
