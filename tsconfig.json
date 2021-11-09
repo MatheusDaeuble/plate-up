@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "keyofStringsOnly": true,
+    "baseUrl": "./",
+    "paths": {
+      "designSystem/*": ["src/designSystem/*"],
+      "assets/*": ["src/assets/*"],
+      "contexts/*": ["src/contexts/*"],
+      "hoc/*": ["src/hoc/*"],
+      "routes/*": ["src/routes/*"],
+      "screens/*": ["src/screens/*"],
+
+    },
+  },
+  "extends": "expo/tsconfig.base"
+}
